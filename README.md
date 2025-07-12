@@ -156,7 +156,7 @@ Request cert in ACM, validate using CNAME in Route 53.
 ## 🙋‍♂️ Author
 
 **Ashir PKP**  
-DevOps Enthusiast | AWS | Linux | Kubernetes
+DevOps Engineer | Cloud and Linux specialist
 
 ---
 
